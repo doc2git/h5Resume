@@ -1,0 +1,8 @@
+#item-box {
+	margin-top; -.2rem;
+}
+#item-box input {
+	display: block;
+	margin: .6rem auto;
+	width: 60%;
+}
